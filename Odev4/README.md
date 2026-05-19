@@ -13,7 +13,7 @@ Aşağıdaki konular detaylıca ele alınmıştır:
 * [cite_start]Zaman karmaşıklığı ($O(\log n)$) ve donanım darboğazlarının (Disk vs. RAM) veri yapılarıyla aşılması[cite: 51, 64, 117].
 
 ## 📂 Klasör İçeriği
-* `sunum.md` / `sunum.pdf`: Araştırma bulgularını içeren kapsamlı sunum dosyası.
+* `ödev4.pptx`: Araştırma bulgularını içeren kapsamlı sunum dosyası.
 * `README.md`: Proje özeti ve dizin bilgisi.
 
 ## 🎓 Akademik Bilgiler
